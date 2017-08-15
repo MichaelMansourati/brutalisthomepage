@@ -1,0 +1,19 @@
+{
+  "name": "brutalisthomepage",
+  "version": "1.0.0",
+  "description": "brutalist homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelMansourati/brutalisthomepage.git"
+  },
+  "author": "Michael Mansourati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelMansourati/brutalisthomepage/issues"
+  },
+  "homepage": "https://github.com/MichaelMansourati/brutalisthomepage#readme"
+}
