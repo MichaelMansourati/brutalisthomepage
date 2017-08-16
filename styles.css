@@ -1,2 +1,14 @@
-h1#myName {
-  color: red; }
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0px; }
+  body h1#myName {
+    color: black; }
+  body div.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+    body div.mainContainer img.topImage {
+      width: 800px;
+      height: auto; }

@@ -1,3 +1,18 @@
-h1#myName {
-  color: red
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0px;
+  h1#myName {
+    color: black
+  }
+  div.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    img.topImage {
+      width: 800px;
+      height: auto
+    }
+  }
 }
